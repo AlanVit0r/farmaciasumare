@@ -95,8 +95,8 @@ main > article > h1 {
     padding-bottom: 20px;
 }
 
-main > div#bloco-esq {
-    width: 300%;
+main > article> div#bloco-esq {
+    width: 100%;
 }
 
 
