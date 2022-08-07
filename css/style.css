@@ -78,6 +78,7 @@ nav > a:hover {
 
 main {
     max-width: 800px;
+    min-width: 300px;
     margin: auto;
     padding: 10px;
     line-height: 2em;
@@ -95,7 +96,7 @@ main > article > h1 {
 }
 
 main > div#bloco-esq {
-    height: 100px;
+    width: 100%;
 }
 
 
