@@ -59,6 +59,7 @@ nav {
 }
 
 nav > a {
+    text-align: center;
     text-decoration: none;
     padding: 10px;
     color: var(--cor02);
