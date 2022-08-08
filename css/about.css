@@ -55,6 +55,7 @@ nav {
     font-family: var(--fonte-padrao);
     background-color: var(--cor05);
     padding: 10px 10px 10px 10px;
+    text-align: center;
 
 }
 

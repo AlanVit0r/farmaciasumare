@@ -55,11 +55,11 @@ nav {
     font-family: var(--fonte-padrao);
     background-color: var(--cor05);
     padding: 10px 10px 10px 10px;
+    text-align: center;
 
 }
 
 nav > a {
-    text-align: center;
     text-decoration: none;
     padding: 10px;
     color: var(--cor02);
