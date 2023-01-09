@@ -87,7 +87,7 @@ main {
     color: var(--cor01);
 }
 
-main > article > h1 {
+main h1 {
     text-align: left;
     color: var(--cor01);
     font-weight: bold;
@@ -96,12 +96,42 @@ main > article > h1 {
     padding-bottom: 20px;
 }
 
-main > article> img {
-    width: 100%;
+article {
+    margin: auto;
+    padding-bottom: 10px;
+    text-align: justify;
+    font-size: 25px;
 }
 
+section {
+    color: white;
+    padding: 2vh;
+    text-shadow: 2px 2px 0px rgb(0, 0, 0);
+    background-image: url('../img/trabalho/008.jpg');
+    background-position: center;
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.733);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 
-main > article > p, li{
+}
+
+section h1 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.452);
+}
+
+section p {
+    background-color: rgba(0, 0, 0, 0.452);
+    
+}
+
+section li{
+    background-color: rgba(0, 0, 0, 0.452);
+
+}
+
+section > p, li{
     margin: auto;
     padding-bottom: 10px;
     text-align: justify;
