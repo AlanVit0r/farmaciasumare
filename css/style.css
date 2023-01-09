@@ -96,11 +96,13 @@ main h1 {
     padding-bottom: 20px;
 }
 
+
 article {
     margin: auto;
     padding-bottom: 10px;
     text-align: justify;
     font-size: 25px;
+    
 }
 
 section {
